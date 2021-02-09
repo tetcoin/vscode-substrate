@@ -1,4 +1,4 @@
-# Substrate - VSCode extension
+# Tetcore - VSCode extension
 
 Manage your node, runtime, browse and install pallets, manage your accounts and your smart contracts within VSCode.
 
